@@ -1,2 +1,2 @@
 # git
-welcome to github
+welcome to githu
